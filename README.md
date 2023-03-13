@@ -14,7 +14,7 @@ To get It running locally:
 
 ## Usage:
 
-Visit [https://]()
+Visit [https://https://birthday-wisher-c9132.web.app/](https://birthday-wisher-c9132.web.app/)
 
 Click on Generate Link
 or Head to [https://]()
