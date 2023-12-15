@@ -16,6 +16,7 @@ function App() {
           component={RouterBirthday}
         />
         <Route exact path='/generate' component={Generate} />
+            <Route path="/birthday/:name/:day/:month/:hour/:minute" component={RouterBirthday} />
       </Switch>
     </div>
   );
